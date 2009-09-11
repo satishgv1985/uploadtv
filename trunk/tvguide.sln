@@ -1,23 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\upload\", "upload", "{9D5B41CC-EDFD-4942-8AA9-72D139C89C8A}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\tvguide\", "tvguide", "{F276455A-DCA5-4B35-B00F-00FE4194550B}"
 	ProjectSection(WebsiteProperties) = preProject
-		Debug.AspNetCompiler.VirtualPath = "/upload"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\uploadtv\upload\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\upload\"
+		Debug.AspNetCompiler.VirtualPath = "/tvguide"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\uploadtv\tvguide\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\tvguide\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/upload"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\uploadtv\upload\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\upload\"
+		Release.AspNetCompiler.VirtualPath = "/tvguide"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\uploadtv\tvguide\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\tvguide\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "16461"
+		VWDPort = "16457"
 	EndProjectSection
 EndProject
 Global
@@ -25,8 +25,8 @@ Global
 		Debug|.NET = Debug|.NET
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9D5B41CC-EDFD-4942-8AA9-72D139C89C8A}.Debug|.NET.ActiveCfg = Debug|.NET
-		{9D5B41CC-EDFD-4942-8AA9-72D139C89C8A}.Debug|.NET.Build.0 = Debug|.NET
+		{F276455A-DCA5-4B35-B00F-00FE4194550B}.Debug|.NET.ActiveCfg = Debug|.NET
+		{F276455A-DCA5-4B35-B00F-00FE4194550B}.Debug|.NET.Build.0 = Debug|.NET
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
